@@ -1,6 +1,6 @@
-# first_project
+# ID Card using Flutter
 
-A new Flutter project.
+made it to learn Flutter layout
 
 ## Getting Started
 
